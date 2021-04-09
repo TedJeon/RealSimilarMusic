@@ -1,5 +1,8 @@
 # RealSimilarMusic
-- Finding Similar Music
+
+Finding Similar Music
+
+---
 
 Have you ever experienced an absurd search result for similar music?
 Let's make a better solution here.
